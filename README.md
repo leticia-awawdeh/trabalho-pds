@@ -85,8 +85,8 @@ A autorização para um uso público, caso venha a ser concedida, **não elimina
 
 **Citar a autora não equivale a ter permissão para publicar. Ter permissão para publicar não autoriza omitir o crédito da autora.**
 
-**Identificação da autora:** `[NOME COMPLETO DA AUTORA — CONFIRMAR]`  
-**Titularidade patrimonial:** `[TITULAR OU TITULARES DOS DIREITOS — CONFIRMAR]`
+**Identificação da autora:** `Letícia Cardoso Mendonça Mustafá Awawdeh`  
+**Titularidade patrimonial:** `Letícia Cardoso Mendonça Mustafá Awawdeh `
 
 Os campos acima e as informações correspondentes no artigo e nos termos devem ser preenchidos e confirmados antes do depósito acadêmico. Os direitos de possíveis coautores e terceiros não são afastados por esta declaração.
 
